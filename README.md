@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohammed Fasiuddin M S <br><br>🎓 Final-year Information Science & Engineering student.<br>💻 Passionate about Full-Stack Development, Artificial Intelligence, and Machine Learning.<br>🚀 Building projects with Java, Spring Boot, Python, React, and MongoDB.<br>📚 Currently learning AI-powered applications and cloud technologies.<br>🌱 Always exploring new technologies and contributing to open-source projects.<br><br>📫 Reach me: your-email@example.com
+👋 Hi, I'm Mohammed Fasiuddin M S <br><br>🎓 Final-year Information Science & Engineering student.<br>💻 Passionate about Full-Stack Development, Artificial Intelligence, and Machine Learning.<br>🚀 Building projects with Java, Spring Boot, Python, React, and MongoDB.<br>📚 Currently learning AI-powered applications and cloud technologies.<br>🌱 Always exploring new technologies and contributing to open-source projects.<br><br>📫 Reach me: mohammedfasiuddin380@gmail.com
 
 
 ## 🌐 Socials:
