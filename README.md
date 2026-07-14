@@ -36,7 +36,7 @@ Build impactful software that solves real-world problems and continuously improv
 
 <p align="left">
 
-<a href="https://(https://portfolio-kappa-lyart-14.vercel.app/)">
+<a href="https://portfolio-kappa-lyart-14.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C4FF?style=for-the-badge"/>
 </a>
 
